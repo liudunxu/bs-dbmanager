@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataBases>
+	<DB name="test" connectionStr="jdbc:sqlserver://xx; DatabaseName=xx" type="sqlserver" username="xx" password="xx"/>
+</DataBases>
